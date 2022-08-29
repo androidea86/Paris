@@ -202,7 +202,7 @@ function App() {
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
         <a href={CONFIG.MARKETPLACE_LINK}>
-          <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
+          <StyledLogo alt={"logo"} src={"/config/images/512.png"} />
         </a>
         <s.SpacerSmall />
 	<s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
