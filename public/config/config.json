@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xa49e987f92ee86d001a6601e96bc0ef2b0e12d21",
-  "SCAN_LINK": "https://polygonscan.com/token/0xa49e987f92ee86d001a6601e96bc0ef2b0e12d21",
+  "CONTRACT_ADDRESS": "0x6bca70e22add8446aa5b752116f08707fa09d6a3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6bca70e22add8446aa5b752116f08707fa09d6a3",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -9,10 +9,10 @@
   "NFT_NAME": "The n+ NFT",
   "SYMBOL": "n+",
   "MAX_SUPPLY": 9999,
-  "WEI_COST": 1000000000000000,
+  "WEI_COST": 10000000000000000,
   "DISPLAY_COST":    0,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/n-plus-project",
+  "MARKETPLACE": "Element-Market",
+  "MARKETPLACE_LINK": "https://element.market/collections/parispunks",
   "SHOW_BACKGROUND": false
 }
